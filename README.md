@@ -1,6 +1,6 @@
 # Juspay MIT Scratch Clone (Assignment 2)
 
-**Live Project Dashboard:** https://vercel.com/dhruv-kumar-jaiswals-projects/juspay-mit-scratch-assignment
+**Live Project Dashboard:** https://juspay-mit-scratch-assignment.vercel.app/
 *(You can find the deployed application link through this dashboard. If you have a direct `.vercel.app` link, please update it here.)*
 
 ## Project Description
